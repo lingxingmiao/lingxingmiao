@@ -1,7 +1,7 @@
 # ❤ Hello，我是海盐青茫
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
-- 🌏 坐标：中国·福建·福州
+- 🌏 坐标：中国·福建·福州·台江
 - 💻 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
 - 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
@@ -9,7 +9,8 @@
 ---
 
 ## 📂 主要项目
-- 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python`
+- 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python` `LLM` `Qwen`
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/)** - 纯公益翻译网站，可使用翻译、分离、合并功能 | `HTML` `Qwen`
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 
 ## 📊 GitHub 统计数据
@@ -34,7 +35,7 @@
 - CPU：[Intel Xeon E5-2696 v3](https://www.techpowerup.com/cpu-specs/xeon-e5-2696-v3.c2903)
 - GPU1：[Intel Arc A310 4GB](https://www.techpowerup.com/gpu-specs/arc-a310.c3930)
 - GPU2: [NVIDIA Tesla V100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-v100-sxm2-16-gb.c3018)
-- GPU3: [NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)
+- GPU3: [NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)(仅计算, 这卡不能使用图形模式)
 - DRAM: Samsung 16GB 1600MHz DDR3 ECC RGE ×4
 - Mobo: JGINYUE X99-TI D3 PLUS
 - NAND1: ZHITAI Ti600 1TB

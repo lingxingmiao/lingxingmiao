@@ -10,7 +10,8 @@
 
 ## 📂 主要项目
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python` `LLM` `Qwen`
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/)** - 纯公益翻译网站，可使用翻译、分离、合并功能 | `HTML` `Qwen`
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qern`</br>
+  - TranslatorMinecraftWeb使用模型：翻译生成：[`Qwen3-30B-A3B-Instruct-2507-GGUF`](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF)、文本嵌入：[`Nomic-Embed-Text-V1.5-GGUF`](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 
 ## 📊 GitHub 统计数据

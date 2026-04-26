@@ -2,7 +2,7 @@
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
 - 🌏 坐标：中国·福建·福州·台江
-- 💻 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
+- ⌨️ 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
 - 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
 - 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/

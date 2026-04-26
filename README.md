@@ -5,12 +5,13 @@
 - 💻 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
 - 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
+- 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/
 
 ---
 
 ## 📂 主要项目
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python` `LLM` `Qwen`
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/html/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qwen`</br>
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qwen`</br>
     - 翻译生成模型：[Qwen3-30B-A3B-Instruct-2507-GGUF](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF)
     - 文本嵌入模型：[Nomic-Embed-Text-V1.5-GGUF](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF)
     - 处理计算加速器：[NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)

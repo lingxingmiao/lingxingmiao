@@ -11,9 +11,9 @@
 
 ## 📂 主要项目
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python` `LLM` `Qwen`
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qwen`</br>
-    - 翻译生成模型：[Qwen3-30B-A3B-Instruct-2507-GGUF](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF)
-    - 文本嵌入模型：[Nomic-Embed-Text-V1.5-GGUF](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF)
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qwen`
+    - 翻译生成模型：[Qwen3.5-9B-GGUF](https://huggingface.co/unsloth/Qwen3.5-9B-GGUF) Q8_0 翻译得分中等偏上(WMT24++ XCOMET-XXL 72.6分)
+    - 文本嵌入模型：[Nomic-Embed-Text-V1.5-GGUF](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF) Q4_K_M
     - 处理计算加速器：[NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 

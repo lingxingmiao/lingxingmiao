@@ -11,7 +11,8 @@
 
 ## 📂 主要项目
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译Minecraft各种内容，没有的提交Issues或者联系我｜`Python` `LLM` `Qwen`
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `HTML` `Qwen`
+  - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件｜`TranslatorMinecraft`
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `TranslatorMinecraft` `HTML` `Qwen`
     - 翻译生成模型：
       - [Gamma4 26B A4B](https://huggingface.co/google/gemma-4-26B-A4B-it) (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
       - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing) (条目数大于2500时 80%分配到这里)

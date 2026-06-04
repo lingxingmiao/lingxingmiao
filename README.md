@@ -14,7 +14,7 @@
   - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件｜`TranslatorMinecraft`
   - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `TranslatorMinecraft` `HTML` `Qwen`
     - 翻译生成模型：
-      - [Google/Gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it) IQ4_NL (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
+      - Gemma4-E4B-Minecraft-MT-en-zh-6400步(训练完成发布) Q8_0 (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
       - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing) (条目数大于2500时 80%分配到这里)
     - 文本嵌入模型：[BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) Q8_0
     - 处理计算加速器：[NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)

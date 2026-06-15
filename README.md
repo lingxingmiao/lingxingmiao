@@ -2,6 +2,7 @@
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
 - 🌏 坐标：中国·福建·福州·台江
+- 🎂 生日：2011·2·12
 - ⌨️ 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
 - 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
@@ -14,7 +15,7 @@
   - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件｜`TranslatorMinecraft`
   - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `TranslatorMinecraft` `HTML`
     - 翻译生成模型：
-      - [Q1ngMang/Gemma-4-E4B-it-Minecraft-MT-en-zh](https://huggingface.co/Q1ngMang/Gemma-4-E4B-it-Minecraft-MT-en-zh) Q8_0 (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
+      - [Gemma-4-E4B-it-Minecraft-MT-en-zh](https://huggingface.co/Q1ngMang/Gemma-4-E4B-it-Minecraft-MT-en-zh) Q8_0 (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
       - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing) (条目数大于2500时 80%分配到这里)
     - 文本嵌入模型：[BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) Q8_0
     - 处理计算加速器：[NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)
@@ -33,6 +34,7 @@
 - B站(主号)：[海盐青茫](https://space.bilibili.com/3706971217725670)
 - B站(次号)：[海盐青茫呀](https://space.bilibili.com/108894390)
 - Modrinth：[QinMang](https://modrinth.com/user/QinMang)
+- HuggingFace: [Q1ngMang](https://huggingface.co/Q1ngMang)
 - MC百科：[海盐青茫](https://center.mcmod.cn/769352)
 
 ---

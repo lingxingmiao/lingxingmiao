@@ -1,6 +1,8 @@
 # ❤ Hello，我是海盐青茫
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
+对不起，我要走了...下个世界再见...
+
 - 🌏 坐标：中国·福建·福州·台江
 - 🎂 生日：2011·2·12
 - ⌨️ 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
@@ -11,9 +13,10 @@
 ---
 
 ## 📂 主要项目
-- 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译 Minecraft/未知伤亡 各种内容，只因我看不懂英文于是写了这个｜`Python` `LLM`
-  - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件｜`TranslatorMinecraft`
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能；| `TranslatorMinecraft` `HTML`
+- 🔗 **[IndexGSQ](https://github.com/lingxingmiao/IndexGSQ)** - 1GB嵌入向量量化后使用90MB内存索引，并保持92%+的召回率。用于边缘设备代替Faiss
+- 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译 Minecraft/未知伤亡 各种内容，只因我看不懂英文于是写了这个
+  - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能
     - 翻译生成模型：
       - [Gemma-4-E4B-it-Minecraft-MT-en-zh](https://huggingface.co/Q1ngMang/Gemma-4-E4B-it-Minecraft-MT-en-zh) Q8_0 (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
       - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing) (条目数大于2500时 80%分配到这里)

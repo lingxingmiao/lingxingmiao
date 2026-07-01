@@ -1,13 +1,11 @@
 # ❤ Hello，我是海盐青茫
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
-对不起，我要走了...下个世界再见... ???两警察给我药收走了
-
 - 🌏 坐标：中国·福建·福州·台江
 - 🎂 生日：2011·2·12
 - ⌨️ 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
-- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
+- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有一周！！！
 - 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/ https://github.com/lingxingmiao/lingxingmiao.github.io
 
 ---
@@ -17,11 +15,10 @@
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译 Minecraft/未知伤亡 各种内容，只因我看不懂英文于是写了这个
   - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件
   - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能
+  - 🔗 **[TranslatorMinecraftAPP](https://github.com/lingxingmiao/TranslatorMinecraftApp)** - 翻译客户端，公益API支持国内路径
     - 翻译生成模型：
-      - [Gemma-4-E4B-it-Minecraft-MT-en-zh](https://huggingface.co/Q1ngMang/Gemma-4-E4B-it-Minecraft-MT-en-zh) Q8_0 (条目数大于2500时 20%分配到这里, 不满足该条件全部分配到这里)
-      - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing) (条目数大于2500时 80%分配到这里)
+      - [DeepSeek V4 Flash](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)
     - 文本嵌入模型：[BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) Q8_0
-    - 处理计算加速器：[NVIDIA Tesla P100 SXM2 16GB](https://www.techpowerup.com/gpu-specs/tesla-p100-sxm2.c3183)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 
 ## 📊 GitHub 统计数据

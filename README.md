@@ -17,8 +17,7 @@
   - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能
   - 🔗 **[TranslatorMinecraftAPP](https://github.com/lingxingmiao/TranslatorMinecraftApp)** - 翻译客户端，支持修改配置
     - 翻译生成模型：
-      - [DeepSeek ](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)[V4 Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
-      - [Gemma4 26B A4B](https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized)
+      - [DeepSeek ](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)[V4 Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) 双账号共5000并发
     - 文本嵌入模型：[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 

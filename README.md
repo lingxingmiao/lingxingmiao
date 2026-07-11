@@ -1,11 +1,10 @@
 # ❤ Hello，我是海盐青茫
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
-- 🌏 坐标：中国·福建·福州·台江
+- 🌏 坐标：中国·福建·福州·台江 and [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
 - 🎂 生日：2011·2·12
-- ⌨️ 基于 Python 技术栈与 Qwen 语义基座，构建面向生成式艺术的数字化产品解决方案
 - 🌱 当前目标：赚钱！！
-- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有一周！！！
+- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有320天+ 好想回到26年7月11号早上
 - 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/ https://github.com/lingxingmiao/lingxingmiao.github.io
 
 ---
@@ -17,7 +16,8 @@
   - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能
   - 🔗 **[TranslatorMinecraftAPP](https://github.com/lingxingmiao/TranslatorMinecraftApp)** - 翻译客户端，支持修改配置
     - 翻译生成模型：
-      - [DeepSeek ](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)[V4 Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) 双账号共5000并发
+      - [DeepSeek ](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)[V4 Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) ×
+      - LongCat2.0 √
     - 文本嵌入模型：[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 

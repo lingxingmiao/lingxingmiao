@@ -57,3 +57,10 @@
 - Display2: Kamvas Pro 16 1080P 60Hz
 - KB: [Newmen GM510](https://www.newmen.cn/details-en.php?cid=84&id=21)
 - Mouse: [Logitechg G502 Hero](https://www.logitechg.com/zh-cn/shop/p/g502-hero-gaming-mouse.910-005474)
+
+## 喵喵喵
+
+<img width="1920" height="1440" alt="c9899a5dcd26bb5ddfb24302c9a79dae" src="https://github.com/user-attachments/assets/7dccb7f6-52c9-4fc3-85ec-a1d25e091c93" />
+
+<img width="1280" height="597" alt="0254023e35e1206c5229a04f4ad991fc" src="https://github.com/user-attachments/assets/950bc958-7c9d-4588-a9bc-ace1c663b06b" />
+

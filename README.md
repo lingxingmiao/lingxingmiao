@@ -1,10 +1,10 @@
 # ❤ Hello，我是海盐青茫
 我是青茫！！一只在家休学的海鲜龙龙ww！！
 
-- 🌏 坐标：中国·福建·福州·台江 and [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A)
+- 🌏 坐标：中国·福建·福州·台江 and 福旅中专(人工智能专业)
 - 🎂 生日：2011·2·12
 - 🌱 当前目标：赚钱！！
-- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有320天+ 好想回到26年7月11号早上
+- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有300天+ 好想回到26年7月11号早上
 - 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/ https://github.com/lingxingmiao/lingxingmiao.github.io
 
 ---
@@ -12,12 +12,10 @@
 ## 📂 主要项目
 - 🔗 **[IndexGSQ](https://github.com/lingxingmiao/IndexGSQ)** - 1GB嵌入向量量化后使用90MB内存索引，并保持92%+的召回率。用于边缘设备代替Faiss
 - 🔗 **[TranslatorMinecraft](https://github.com/lingxingmiao/Translator-Minecraft)** - 翻译 Minecraft/未知伤亡 各种内容，只因我看不懂英文于是写了这个
-  - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组翻译好的资源包/语言文件
-  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，可使用翻译、分离、合并功能
+  - 🔗 **[GregTechCEu-affiliated-localization](https://github.com/lingxingmiao/GregTechCEu-affiliated-localization)** - MCMOD内的模组/整合包翻译好的资源包/语言文件
+  - 🔗 **[TranslatorMinecraftWeb](https://lingxingmiao.github.io/TranslatorMinecraft.html)** - 纯公益翻译网站，仅可使用翻译功能
   - 🔗 **[TranslatorMinecraftAPP](https://github.com/lingxingmiao/TranslatorMinecraftApp)** - 翻译客户端，支持修改配置
-    - 翻译生成模型：
-      - [DeepSeek ](https://api-docs.deepseek.com/zh-cn/quick_start/pricing)[V4 Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) ×
-      - LongCat2.0 √
+    - 翻译生成模型：Qwen3.7 Flash (DeepSeek太贵了只用得起这个)
     - 文本嵌入模型：[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
 - 🔗 **[GregTech PBR](https://github.com/lingxingmiao/GTCEu-LabPBR)** - 单开光影不好看，加了这个资源包口区｜`Pyhton`
 

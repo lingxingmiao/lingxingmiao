@@ -4,7 +4,7 @@
 - 🌏 坐标：中国·福建·福州·台江 and 福旅中专(人工智能专业)
 - 🎂 生日：2011·2·12
 - 🌱 当前目标：赚钱！！
-- 🏃‍ 下一个去的地方: [福绒聚](https://www.furryfusion.net/fusion/%E7%A6%8F%E7%BB%92%E8%81%9A) 还有200天+ 好想回到26年7月11号早上
+- 🏃‍ 下一个去的地方: 福州·寻陆聚
 - 🖥️ 青茫文档/主页：https://lingxingmiao.github.io/ https://github.com/lingxingmiao/lingxingmiao.github.io
 
 ---
